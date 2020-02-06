@@ -14,6 +14,8 @@ This project is a prototype made with <b>CSFML</b> during our first year at the 
 </br></br>
 <b>Build:</b> https://drive.google.com/file/d/1ynyDrBqMkSsLu8GzaKyf1UmBXa3Um_ZD/view
 
+<b>Trailer:</b> https://www.youtube.com/watch?v=XM7IDto099Y
+
 <b>This game was created by the following artists and programmers:</b>
 * Thibaut Dailloux https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
 * Ophélie Eygrier https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
@@ -25,3 +27,9 @@ This project is a prototype made with <b>CSFML</b> during our first year at the 
 * Nathan Olivencia https://www.linkedin.com/in/nathan-olivencia-a808a4196/
 * Nathan Ginisty https://www.linkedin.com/in/nathan-ginisty-3888a1196/
 * Clément Amphoux https://www.linkedin.com/in/clement-amphoux-6626a1182/
+
+
+
+![Image description](https://i.imgur.com/UPh31dO.jpg)
+
+![Image description](https://i.imgur.com/GFX0IyX.png)
